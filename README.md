@@ -1,59 +1,115 @@
-# Hi, I'm Nikko Ensomo
+<div align="center">
 
-I'm a BSIT graduate from the University of San Carlos based in Cebu, Philippines. I build full-stack web applications with a focus on practical workflows, clean user interfaces, and backend logic that keeps data organized and secure.
+# Hi, I'm Nikko Ensomo 👋
 
-I'm currently working on **SideQuest**, a MERN stack application where users can post, accept, manage, and complete quest-style tasks.
+**Full-Stack Developer • BS Information Technology Graduate • Cebu, Philippines**
 
-## Tech Stack
+Building practical web applications with clean interfaces, scalable backend logic, and efficient user workflows.
 
-**Languages:** JavaScript, Java, Kotlin, PHP, C, C++  
-**Frontend:** React.js, Angular.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database & Platforms:** MongoDB, Firebase, Vercel  
-**Tools:** Git, GitHub, Postman, Docker  
+🚀 Currently developing **SideQuest** — a MERN stack platform for posting, accepting, managing, and completing quest-style tasks.
 
-## Featured Projects
+[LinkedIn](https://linkedin.com/in/nikkoensomo) • [GitHub](https://github.com/nikkoensomo) • 📧 [nikkoensomo.work@gmail.com](mailto:nikkoensomo.work@gmail.com)
 
-### SideQuest
+</div>
 
-A full-stack web application built with the MERN stack for posting and accepting task-based quests.
+---
 
-- Implemented JWT-based authentication and protected routes.
-- Built reusable React components for dashboards, cards, modals, forms, and status badges.
-- Designed backend routes and controllers for quest creation, editing, accepting, cancelling, and completion flows.
-- Used MongoDB relationships and ownership checks to separate available quests, posted quests, and accepted quests.
+## 💻 Tech Stack
 
-**Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+### Languages
 
-### Enterprise HR Management System
+`JavaScript` `Java` `Kotlin` `PHP` `C` `C++`
 
-A capstone project developed for a Cebu-based food and beverage company.
+### Frontend
 
-- Collaborated with a team of four to design and deploy a full-stack HR management system.
-- Built REST APIs for CRUD operations involving employee orders and inventory.
-- Implemented secure password reset functionality with email-based verification.
-- Helped optimize API requests and state management to reduce page reloads and unnecessary read/write operations.
+`React.js` `Angular` `Tailwind CSS`
 
-## Experience
+### Backend
 
-### Intern, Yoshii Software Solutions Philippines
+`Node.js` `Express.js` `REST APIs`
 
-- Developed and maintained internal business applications that helped automate manual workflows.
-- Collaborated in an Agile environment through weekly stand-ups and team development workflows.
-- Built responsive frontend components and mobile features using React.js, Kotlin, and Jetpack Compose.
-- Used Docker for containerized development workflows.
+### Database & Cloud
 
-## Education
+`MongoDB` `Firebase` `Vercel`
 
-**Bachelor of Science in Information Technology**  
-University of San Carlos, Cebu City  
-Graduated February 2026
+### Tools
 
-- DOST-SEI Undergraduate Scholar
-- Relevant coursework: Data Structures, Web Development, Application Development, Database Management, Object-Oriented Programming
+`Git` `GitHub` `Docker` `Postman`
 
-## Connect
+---
 
-- LinkedIn: [linkedin.com/in/nikkoensomo](https://linkedin.com/in/nikkoensomo)
-- GitHub: [github.com/nikkoensomo](https://github.com/nikkoensomo)
-- Email: [nikkoensomo.work@gmail.com](mailto:nikkoensomo.work@gmail.com)
+## 🚀 Featured Projects
+
+### SideQuest *(Personal Project)*
+
+Full-stack MERN application that allows users to post and complete task-based quests.
+
+**Highlights**
+
+* Implemented **JWT authentication** with protected routes and secure session handling.
+* Built reusable React components for dashboards, forms, modals, cards, and status tracking.
+* Designed RESTful backend architecture for quest lifecycle management.
+* Implemented ownership validation and MongoDB relationships for user-specific data.
+
+**Stack:**
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+---
+
+### Enterprise HR Management System *(Capstone Project)*
+
+Developed for a Cebu-based food and beverage company.
+
+**Highlights**
+
+* Collaborated in a **4-member team** to design and deploy a full-stack HR platform.
+* Developed backend APIs supporting employee and administrative workflows.
+* Implemented **secure password reset and email verification flows**.
+* Improved frontend state handling and reduced unnecessary API requests.
+
+**Stack:**
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 💼 Experience
+
+### Software Development Intern
+
+**Yoshii Software Solutions Philippines**
+
+* Developed and maintained internal business applications.
+* Built responsive UI components and mobile features using **React.js**, **Kotlin**, and **Jetpack Compose**.
+* Worked in Agile development cycles with collaborative workflows.
+* Used Docker for containerized development environments.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**
+University of San Carlos
+Graduated • February 2026
+
+🏅 DOST-SEI Undergraduate Scholar
+
+Relevant Coursework:
+
+* Data Structures & Algorithms
+* Web Development
+* Application Development
+* Database Management
+* Object-Oriented Programming
+
+---
+
+## 📈 Currently Learning
+
+* System Design
+* Advanced Backend Architecture
+* Scalable REST API Development
+* DevOps Fundamentals
+
+---
+
+⭐ Feel free to explore my repositories and connect!
